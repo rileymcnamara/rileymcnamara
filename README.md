@@ -1,77 +1,113 @@
 # Riley McNamara
 
-Physics graduate specialising in computational modelling, numerical simulation, and data driven scientific systems.  
-My work focuses on translating physical theory into robust computational frameworks, with applications in biomedical and complex systems modelling.
+### Computational Physicist  
+### Modelling Complex Systems Through First Principles
 
-## Academic background
+I am a physics graduate specialising in computational modelling, numerical simulation, and theory driven software development.  
+My work focuses on building mechanistic models that translate physical laws into interpretable and reproducible computational systems, with current applications in biomedical and biological growth modelling.
 
-* Graduate training in physics with strong foundations in calculus, linear algebra, and differential equations
-* Focus on computational physics, numerical methods, and scientific programming
-* Experience applying physical modelling techniques to biological and biomedical systems
-* Strong interest in first principles modelling and theory guided computation
+---
 
-## Research focus
+## Core Identity
 
-* Computational modelling of complex systems
-* PDE based and phase field models
-* Continuum descriptions of growth, transport, and diffusion
-* Calibration of mechanistic models against experimental data
-* Uncertainty quantification and sensitivity analysis
+**Physics first. Computation as the instrument. Data as constraint.**
 
-## Core competencies
+I approach problems by  
+• defining explicit assumptions  
+• expressing them mathematically  
+• implementing them computationally  
+• validating them against experiment  
 
-### Computational physics and modelling
+This philosophy guides both my research and software design.
 
-* Numerical solution of PDEs and coupled field systems
-* Phase field and continuum modelling frameworks
-* Stability analysis and model diagnostics
-* Parameter inference and optimisation
-* GPU and vectorised computation
+---
 
-### Programming and scientific computing
+## Academic Focus
 
-* Python for numerical and scientific applications
-* NumPy, SciPy, JAX for high performance workflows
-* PyTorch for machine learning assisted modelling
-* YAML driven configuration for reproducible experiments
-* Version controlled research codebases
+**Computational and Mathematical Physics**
 
-### Data integration and analysis
+• Continuum modelling of growth, transport, and diffusion  
+• Partial differential equations and coupled field systems  
+• Phase field and energy based formulations  
+• Stability analysis and model diagnostics  
+• Parameter inference and uncertainty quantification  
 
-* Image based measurement and shape analysis
-* Alignment of simulation outputs with experimental observables
-* Automated quality control and validation pipelines
-* Structured data management and reporting
+**Applied Domains**
 
-### Software engineering
+• Tumour and organoid growth modelling  
+• Image informed calibration of simulations  
+• Integration of experimental and simulation data  
+• Digital twin style modelling frameworks  
 
-* Modular and extensible code architectures
-* Abstract base classes and workflow driven design
-* FastAPI based service layers for inference and automation
-* Emphasis on reproducibility and maintainability
+---
 
-## Selected work
+## Technical Stack
 
-### Mechanistic simulation frameworks
+### Scientific Computing
 
-* Design and implementation of multi field simulation systems
-* Coupling of transport, reaction, and growth processes
-* Application of physical principles to biological growth models
-* Focus on interpretability and parameter transparency
+• Python as primary research language  
+• NumPy, SciPy, JAX for numerical methods  
+• Vectorised and GPU accelerated workflows  
+• YAML driven experiment configuration  
 
-### Machine learning assisted pipelines
+### Modelling and Simulation
 
-* Use of ML models for feature extraction and pattern detection
-* Integration of learning based components into physics guided systems
-* Deployment of fast inference models using ONNX
+• Multi species PDE solvers  
+• Reaction diffusion and transport models  
+• Phase field formulations  
+• Early termination and divergence control  
+• Sensitivity and curvature analysis  
 
-## Research philosophy
+### Machine Learning and Vision
 
-I approach computational modelling from a physics first perspective.  
-Models are built from clear assumptions, governed by explicit equations, and validated against data rather than tuned for performance alone.
+• Physics informed use of ML models  
+• Image based feature extraction  
+• Detectron2 for layout and structure detection  
+• ONNX deployment for fast inference  
 
-## Contact
+### Software Engineering
 
-Open to research collaboration, academic discussion, and applied computational modelling work.  
-Please reach out through GitHub.
+• Modular architectures with explicit abstractions  
+• Workflow oriented system design  
+• FastAPI based service layers  
+• Emphasis on clarity and long term maintainability  
+
+---
+
+## Selected Work
+
+### Mechanistic Simulation Framework
+
+A modular simulation system for complex growth dynamics  
+• Explicit physical assumptions  
+• Transparent parameterisation  
+• Calibrated against experimental observables  
+• Designed for extensibility and uncertainty analysis  
+
+### Scientific Automation Pipelines
+
+End to end pipelines for data ingestion, validation, and reporting  
+• Reduced manual intervention  
+• Reproducible processing steps  
+• Tight coupling between data and model outputs  
+
+---
+
+## Research Philosophy
+
+I value models that explain over models that merely predict.  
+Performance is secondary to interpretability, robustness, and physical consistency.
+
+Good code should read like an argument, not a trick.
+
+---
+
+## Collaboration
+
+Open to collaboration in  
+• computational physics  
+• applied mathematical modelling  
+• research software engineering  
+
+If your work sits between theory, computation, and data, we will likely get along.
 
