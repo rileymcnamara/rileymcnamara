@@ -1,113 +1,61 @@
-# Riley McNamara
+# 🌌 Riley McNamara
+### Computational Physicist | Modelling Complex Systems
 
-### Computational Physicist  
-### Modelling Complex Systems Through First Principles
-
-I am a physics graduate specialising in computational modelling, numerical simulation, and theory driven software development.  
-My work focuses on building mechanistic models that translate physical laws into interpretable and reproducible computational systems, with current applications in biomedical and biological growth modelling.
-
----
-
-## Core Identity
-
-**Physics first. Computation as the instrument. Data as constraint.**
-
-I approach problems by  
-• defining explicit assumptions  
-• expressing them mathematically  
-• implementing them computationally  
-• validating them against experiment  
-
-This philosophy guides both my research and software design.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCEFA&center=true&vCenter=true&width=500&lines=Physics+First.;Computation+as+the+Instrument.;Data+as+Constraint." alt="Typing SVG" />
+</p>
 
 ---
 
-## Academic Focus
+### 🧬 About Me
+I bridge the gap between **theoretical physics** and **software engineering**. My work focuses on building mechanistic models—specifically translating physical laws into reproducible computational systems for biomedical and biological growth.
 
-**Computational and Mathematical Physics**
-
-• Continuum modelling of growth, transport, and diffusion  
-• Partial differential equations and coupled field systems  
-• Phase field and energy based formulations  
-• Stability analysis and model diagnostics  
-• Parameter inference and uncertainty quantification  
-
-**Applied Domains**
-
-• Tumour and organoid growth modelling  
-• Image informed calibration of simulations  
-• Integration of experimental and simulation data  
-• Digital twin style modelling frameworks  
+* **Current Focus:** Continuum modelling of growth, transport, and diffusion.
+* **Philosophy:** Models should explain, not just predict. Good code reads like an argument.
 
 ---
 
-## Technical Stack
+### 🛠️ Technical Arsenal
 
-### Scientific Computing
-
-• Python as primary research language  
-• NumPy, SciPy, JAX for numerical methods  
-• Vectorised and GPU accelerated workflows  
-• YAML driven experiment configuration  
-
-### Modelling and Simulation
-
-• Multi species PDE solvers  
-• Reaction diffusion and transport models  
-• Phase field formulations  
-• Early termination and divergence control  
-• Sensitivity and curvature analysis  
-
-### Machine Learning and Vision
-
-• Physics informed use of ML models  
-• Image based feature extraction  
-• Detectron2 for layout and structure detection  
-• ONNX deployment for fast inference  
-
-### Software Engineering
-
-• Modular architectures with explicit abstractions  
-• Workflow oriented system design  
-• FastAPI based service layers  
-• Emphasis on clarity and long term maintainability  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Scientific Computing** | `Python` `NumPy` `SciPy` `JAX` `Vectorized/GPU Workflows` |
+| **Physics & Simulation** | `Multi-species PDEs` `Reaction-Diffusion` `Phase-Field` `Stability Analysis` |
+| **ML & Computer Vision** | `Physics-Informed ML` `Detectron2` `ONNX` `Image-based Calibration` |
+| **Software Architecture** | `FastAPI` `Modular Design` `YAML-driven Configs` `CI/CD` |
 
 ---
 
-## Selected Work
-
-### Mechanistic Simulation Framework
-
-A modular simulation system for complex growth dynamics  
-• Explicit physical assumptions  
-• Transparent parameterisation  
-• Calibrated against experimental observables  
-• Designed for extensibility and uncertainty analysis  
-
-### Scientific Automation Pipelines
-
-End to end pipelines for data ingestion, validation, and reporting  
-• Reduced manual intervention  
-• Reproducible processing steps  
-• Tight coupling between data and model outputs  
+### 📊 My Research & Code Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
-## Research Philosophy
+### 🚀 Selected Projects
 
-I value models that explain over models that merely predict.  
-Performance is secondary to interpretability, robustness, and physical consistency.
+#### 🔬 [Mechanistic Simulation Framework](https://github.com/[LINK])
+> A modular system for complex growth dynamics using explicit physical assumptions.
+* **Tech:** JAX, Phase-field formulations.
+* **Key Insight:** Calibrated against experimental observables for uncertainty analysis.
 
-Good code should read like an argument, not a trick.
+#### 🏗️ [Scientific Automation Pipelines](https://github.com/[LINK])
+> End-to-end pipelines for data ingestion, validation, and reporting.
+* **Tech:** FastAPI, ONNX, Detectron2.
 
 ---
 
-## Collaboration
+### 📫 Let's Collaborate
+If your work sits between **theory, computation, and data**, let’s connect.
 
-Open to collaboration in  
-• computational physics  
-• applied mathematical modelling  
-• research software engineering  
+<p align="left">
+<a href="https://linkedin.com/in/[YOUR_LINK]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-If your work sits between theory, computation, and data, we will likely get along.
-
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
