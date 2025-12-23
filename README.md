@@ -1,61 +1,101 @@
-# 🌌 Riley McNamara
-### Computational Physicist | Modelling Complex Systems
+![Computational Physics Banner](https://www.shutterstock.com/image-illustration/image-digital-screen-data-math-600nw-2638849879.jpg)
+<!-- Dark minimalist banner with equations and data visualization -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCEFA&center=true&vCenter=true&width=500&lines=Physics+First.;Computation+as+the+Instrument.;Data+as+Constraint." alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Riley+McNamara;Computational+Physicist;Modelling+Biological+Growth+via+First-Principles+Simulations" alt="Typing SVG" />
 
-### 🧬 About Me
-I bridge the gap between **theoretical physics** and **software engineering**. My work focuses on building mechanistic models—specifically translating physical laws into reproducible computational systems for biomedical and biological growth.
+### Physics Graduate | Specializing in Computational Modelling & Numerical Simulation
 
-* **Current Focus:** Continuum modelling of growth, transport, and diffusion.
-* **Philosophy:** Models should explain, not just predict. Good code reads like an argument.
+Building mechanistic, interpretable models for complex systems—with applications in tumour and organoid growth.
 
----
+</div>
 
-### 🛠️ Technical Arsenal
+### 🔬 Showcase: Simulation Visualizations
+<div align="center">
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Scientific Computing** | `Python` `NumPy` `SciPy` `JAX` `Vectorized/GPU Workflows` |
-| **Physics & Simulation** | `Multi-species PDEs` `Reaction-Diffusion` `Phase-Field` `Stability Analysis` |
-| **ML & Computer Vision** | `Physics-Informed ML` `Detectron2` `ONNX` `Image-based Calibration` |
-| **Software Architecture** | `FastAPI` `Modular Design` `YAML-driven Configs` `CI/CD` |
+<grok-card data-id="026eea" data-type="image_card"></grok-card>
 
----
 
-### 📊 My Research & Code Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rileymcnamara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rileymcnamara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
 
----
+<grok-card data-id="13369c" data-type="image_card"></grok-card>
 
-### 🚀 Selected Projects
 
-#### 🔬 [Mechanistic Simulation Framework](https://github.com/[LINK])
-> A modular system for complex growth dynamics using explicit physical assumptions.
-* **Tech:** JAX, Phase-field formulations.
-* **Key Insight:** Calibrated against experimental observables for uncertainty analysis.
 
-#### 🏗️ [Scientific Automation Pipelines](https://github.com/[LINK])
-> End-to-end pipelines for data ingestion, validation, and reporting.
-* **Tech:** FastAPI, ONNX, Detectron2.
+<grok-card data-id="647dc0" data-type="image_card"></grok-card>
 
----
 
-### 📫 Let's Collaborate
-If your work sits between **theory, computation, and data**, let’s connect.
 
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINK]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<grok-card data-id="a7a86d" data-type="image_card"></grok-card>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
+
+<grok-card data-id="8c83e2" data-type="image_card"></grok-card>
+
+
+
+<grok-card data-id="0e3442" data-type="image_card"></grok-card>
+
+
+*Phase-field tumour growth • Reaction-diffusion patterns • Continuum growth models • 3D organoid simulations*
+
+</div>
+
+### 📊 GitHub Achievements
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?username=yourusername&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&margin-w=15)
+
+</div>
+
+### 🛠️ Technical Skills & Expertise
+
+| Category                  | Key Achievements & Tools                                                                 |
+|---------------------------|------------------------------------------------------------------------------------------|
+| **Scientific Computing**  | Primary: Python • NumPy • SciPy • JAX (GPU-accelerated workflows) • YAML-driven configs |
+| **Modelling & Simulation**| Multi-species PDE solvers • Reaction-diffusion systems • Phase-field formulations • Stability & sensitivity analysis • Uncertainty quantification |
+| **Applied Domains**       | Tumour/organoid growth modelling • Image-informed calibration • Digital twin frameworks • Experimental data integration |
+| **ML & Vision**           | Physics-informed ML • Detectron2 (layout detection) • ONNX deployment • Feature extraction |
+| **Software Engineering**  | Modular architectures • FastAPI services • Reproducible pipelines • Long-term maintainability |
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAX-Advanced-FF6F00?style=flat&logo=jax&logoColor=white" />
+<img src="https://img.shields.io/badge/PDEs-Expert-000000?style=flat" />
+<img src="https://img.shields.io/badge/Phase_Field-Advanced-4CAF50?style=flat" />
+<img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Detectron2-Advanced-0D47A1?style=flat&logo=facebook&logoColor=white" />
+
+</div>
+
+### 🚀 Key Achievements & Projects
+
+- **Mechanistic Simulation Framework**  
+  Developed modular system for complex biological growth dynamics: explicit physics-based assumptions, transparent parameters, calibrated to experimental data, extensible for uncertainty analysis.
+
+- **Scientific Automation Pipelines**  
+  Built end-to-end workflows for data ingestion, validation, and reporting—minimizing manual work while ensuring reproducibility and tight model-data coupling.
+
+- **Biomedical Applications**  
+  Continuum modelling of tumour/organoid growth, transport, and diffusion • Image-informed parameter inference • Coupled PDE systems with phase-field and energy formulations.
+
+### 🤝 Let's Connect
+Open to opportunities and collaborations in computational physics, mathematical biology, and research software.
+
+<div align="center">
+
+<!-- Add your links -->
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
+
+</div>
